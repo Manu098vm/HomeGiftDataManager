@@ -1,0 +1,86 @@
+{
+  "gfMId": "miracle_reward_3",
+  "gtp": 0,
+  "con": null,
+  "iconT": 0,
+  "amo": 1,
+  "oSt": 1,
+  "title": {
+    "1": {
+      "1": "ミラクルボックス交換成立記念！",
+      "2": "ミラクルボックスこうかんせいりつきねん！"
+    },
+    "2": {
+      "1": "Gift for using the Wonder Box!"
+    },
+    "3": {
+      "1": "Échange via la Boîte Miracle fait !"
+    },
+    "4": {
+      "1": "Scambio tramite Box prodigioso!"
+    },
+    "5": {
+      "1": "Erster Wunderbox-Tausch!"
+    },
+    "7": {
+      "1": "¡Caja prodigiosa utilizada!"
+    },
+    "8": {
+      "1": "미라클 박스로 교환 성공 기념!"
+    },
+    "9": {
+      "1": "奇迹盒子交换成功纪念！"
+    },
+    "10": {
+      "1": "奇蹟盒子交換成功紀念！"
+    }
+  },
+  "txt": {
+    "1": {
+      "1": "はじめて\u3000ミラクルボックスで\u3000\nポケモン交換が\u3000成立した！\n記念に\u3000イーブイを\u3000プレゼント！",
+      "2": "はじめて\u3000ミラクルボックスで\nポケモンこうかんが\u3000せいりつした！\nきねんに\u3000イーブイを\u3000プレゼント！"
+    },
+    "2": {
+      "1": "To celebrate your first trade using\nthe Wonder Box, you\u0027ll be gifted\nan Eevee!"
+    },
+    "3": {
+      "1": "Pour fêter votre premier échange grâce à\nla Boîte Miracle, nous vous offrons un Évoli !"
+    },
+    "4": {
+      "1": "Per festeggiare il tuo primo scambio tramite\nBox prodigioso, vogliamo regalarti un Eevee!"
+    },
+    "5": {
+      "1": "Du hast zum ersten Mal per Wunderbox Pokémon\ngetauscht. Als Belohnung bekommst du ein Evoli\ngeschenkt!"
+    },
+    "7": {
+      "1": "Para celebrar tu primer intercambio mediante\nla caja prodigiosa, ¡te regalamos este Eevee!"
+    },
+    "8": {
+      "1": "처음으로 미라클 박스에서\n포켓몬 교환에 성공했다!\n기념으로 이브이를 선물!"
+    },
+    "9": {
+      "1": "第一次通过奇迹盒子\n成功交换了宝可梦！\n作为纪念你将获赠一只伊布！"
+    },
+    "10": {
+      "1": "第一次透過奇蹟盒子成功交換寶可夢！\n送你一隻伊布作為紀念！"
+    }
+  },
+  "expAt": 1584120564,
+  "creAt": 1581528564,
+  "updAt": 1581553915,
+  "viAt": 1676136564,
+  "pm": {
+    "pkInfo": [
+      {
+        "id": 133,
+        "form": 0,
+        "sex": null,
+        "color": null,
+        "nicNg": null
+      }
+    ]
+  },
+  "riGrp": 1,
+  "txtTg": "",
+  "titTg": ""
+}

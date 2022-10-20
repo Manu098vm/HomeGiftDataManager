@@ -1,0 +1,86 @@
+{
+  "gfMId": "gts_reward_3",
+  "gtp": 0,
+  "con": null,
+  "iconT": 0,
+  "amo": 1,
+  "oSt": 1,
+  "title": {
+    "1": {
+      "1": "GTS交換成立記念！",
+      "2": "GTSこうかんせいりつきねん！"
+    },
+    "2": {
+      "1": "Gift for using the GTS!"
+    },
+    "3": {
+      "1": "Premier échange sur le GTS fait !"
+    },
+    "4": {
+      "1": "Scambio tramite GTS!"
+    },
+    "5": {
+      "1": "Erster GTS-Tausch!"
+    },
+    "7": {
+      "1": "¡GTS utilizado!"
+    },
+    "8": {
+      "1": "GTS로 교환 성공 기념!"
+    },
+    "9": {
+      "1": "GTS交换成功纪念！"
+    },
+    "10": {
+      "1": "GTS交換成功紀念！"
+    }
+  },
+  "txt": {
+    "1": {
+      "1": "はじめて\u3000GTSで\u3000ポケモン交換が\n成立した！\n記念に\u3000ロトムを\u3000プレゼント！\n",
+      "2": "はじめて\u3000GTSで\u3000ポケモンこうかんが\nせいりつした！\nきねんに\u3000ロトムを\u3000プレゼント！"
+    },
+    "2": {
+      "1": "To celebrate your first trade\nusing the GTS, you\u0027ll be\ngifted a Rotom!"
+    },
+    "3": {
+      "1": "Pour fêter votre premier échange de Pokémon\nsur le GTS, nous vous offrons un Motisma !"
+    },
+    "4": {
+      "1": "Per festeggiare il tuo primo scambio tramite GTS,\nvogliamo regalarti un Rotom!"
+    },
+    "5": {
+      "1": "Du hast zum ersten Mal über das GTS Pokémon\ngetauscht. Als Belohnung bekommst du ein Rotom\ngeschenkt!"
+    },
+    "7": {
+      "1": "Para celebrar tu primer intercambio en\nel GTS, ¡te regalamos este Rotom!"
+    },
+    "8": {
+      "1": "처음으로 GTS에서\n포켓몬 교환에 성공했다!\n기념으로 로토무를 선물!"
+    },
+    "9": {
+      "1": "第一次通过GTS\n成功交换了宝可梦！\n作为纪念你将获赠一只洛托姆！"
+    },
+    "10": {
+      "1": "第一次透過GTS成功交換寶可夢！\n送你一隻洛托姆作為紀念！"
+    }
+  },
+  "expAt": 1584096252,
+  "creAt": 1581504252,
+  "updAt": 1581511529,
+  "viAt": 1676112252,
+  "pm": {
+    "pkInfo": [
+      {
+        "id": 479,
+        "form": 0,
+        "sex": null,
+        "color": null,
+        "nicNg": null
+      }
+    ]
+  },
+  "riGrp": 1,
+  "txtTg": "",
+  "titTg": ""
+}

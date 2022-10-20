@@ -1,0 +1,86 @@
+{
+  "gfMId": "library_reward_3",
+  "gtp": 0,
+  "con": null,
+  "iconT": 0,
+  "amo": 1,
+  "oSt": 1,
+  "title": {
+    "1": {
+      "1": "全国図鑑完成記念！",
+      "2": "ぜんこくずかんかんせいきねん！"
+    },
+    "2": {
+      "1": "Gift for completing the National Pokédex!"
+    },
+    "3": {
+      "1": "Pokémon national complété !"
+    },
+    "4": {
+      "1": "Pokédex Nazionale completato!"
+    },
+    "5": {
+      "1": "Nationaler Pokédex vollständig!"
+    },
+    "7": {
+      "1": "¡Pokédex Nacional completada!"
+    },
+    "8": {
+      "1": "전국도감 완성 기념!"
+    },
+    "9": {
+      "1": "全国图鉴完成纪念！"
+    },
+    "10": {
+      "1": "全國圖鑑完成紀念！"
+    }
+  },
+  "txt": {
+    "1": {
+      "1": "たくさんの\u3000ポケモンを\u3000登録して\n全国図鑑を\u3000完成させた！\n記念に\u3000マギアナを\u3000プレゼント！",
+      "2": "たくさんの\u3000ポケモンを\u3000とうろくして\nぜんこくずかんを\u3000かんせいさせた！\nきねんに\u3000マギアナを\u3000プレゼント！"
+    },
+    "2": {
+      "1": "To celebrate registering so many Pokémon\nand completing the National Pokédex,\nyou\u0027ll be gifted a Magearna!"
+    },
+    "3": {
+      "1": "Pour célébrer l\u0027enregistrement de tant de Pokémon dans\nvotre Pokédex national, nous vous offrons Magearna !"
+    },
+    "4": {
+      "1": "Hai completato il Pokédex Nazionale!\nPer festeggiare, vogliamo regalarti un Magearna!"
+    },
+    "5": {
+      "1": "Du hast viele Pokémon registriert und somit den\nNationalen Pokédex vervollständigt. Als Belohnung\nbekommst du ein Magearna geschenkt!"
+    },
+    "7": {
+      "1": "Para celebrar que has registrado tantísimos\nPokémon y que has completado la Pokédex\nNacional, ¡te regalamos este Magearna!"
+    },
+    "8": {
+      "1": "포켓몬을 많이 등록해서\n전국도감을 완성했다!\n기념으로 마기아나를 선물!"
+    },
+    "9": {
+      "1": "添加了许多宝可梦，\n完成了全国图鉴！\n作为纪念你将获赠一只玛机雅娜！"
+    },
+    "10": {
+      "1": "登錄了許多寶可夢，完成了全國圖鑑！\n送你一隻瑪機雅娜作為紀念！"
+    }
+  },
+  "expAt": 1584737111,
+  "creAt": 1582145111,
+  "updAt": 1582145171,
+  "viAt": 1676753111,
+  "pm": {
+    "pkInfo": [
+      {
+        "id": 801,
+        "form": 1,
+        "sex": null,
+        "color": null,
+        "nicNg": null
+      }
+    ]
+  },
+  "riGrp": 1,
+  "txtTg": "",
+  "titTg": ""
+}

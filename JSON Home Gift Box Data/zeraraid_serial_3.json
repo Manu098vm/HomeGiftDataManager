@@ -1,0 +1,76 @@
+{
+  "gfMId": "zeraraid_serial_3",
+  "gtp": 1,
+  "con": "H0012WQ24JSCRY86",
+  "iconT": 1,
+  "amo": 1,
+  "oSt": 2,
+  "title": {
+    "1": {
+      "1": "ゼラオラ勝利記念！②",
+      "2": "ゼラオラしょうりきねん！②"
+    },
+    "2": {
+      "1": "Victory over Zeraora ②"
+    },
+    "3": {
+      "1": "Victoire sur Zeraora ! ②"
+    },
+    "4": {
+      "1": "Vittoria contro Zeraora 2"
+    },
+    "5": {
+      "1": "Zeraora besiegt! (Geschenk ②)"
+    },
+    "7": {
+      "1": "¡Victoria contra Zeraora! ②"
+    },
+    "8": {
+      "1": "제라오라 승리 기념! ②"
+    },
+    "9": {
+      "1": "捷拉奥拉胜利纪念！②"
+    },
+    "10": {
+      "1": "捷拉奧拉勝利紀念！②"
+    }
+  },
+  "txt": {
+    "1": {
+      "1": "特別な\u3000マックスレイドバトルで\r\nゼラオラを\u3000倒した\u3000トレーナーの\r\n人数が\u3000目標を\u3000達成！\r\n記念に\u3000ヨロイこうせきを\u3000プレゼント！",
+      "2": "とくべつな\u3000マックスレイドバトルで\r\nゼラオラを\u3000たおした\u3000トレーナーの\r\nにんずうが\u3000もくひょうを\u3000たっせい！\r\nきねんに\u3000ヨロイこうせきを\u3000プレゼント！"
+    },
+    "2": {
+      "1": "Congratulations! We hit a further target for the number of\r\nTrainers who defeated Zeraora in special Max Raid Battles!\r\nAs a reward, you\u0027ll receive some Armorite Ore!"
+    },
+    "3": {
+      "1": "Félicitations ! Un nombre suffisant de Dresseurs\r\na vaincu Zeraora lors des raids Dynamax !\r\nUn nouveau palier a été débloqué :\r\nnous vous offrons donc de l\u0027Armurium !"
+    },
+    "4": {
+      "1": "Complimenti! È stato raggiunto il secondo obiettivo\r\nrelativo al numero di Allenatori che hanno sconfitto\r\nZeraora nel Raid Dynamax speciale! Per festeggiare,\r\nvogliamo regalarti delle Roccearmatura!"
+    },
+    "5": {
+      "1": "Glückwunsch! In den besonderen Dyna-Raids haben\r\ngenug Trainer Zeraora besiegt, um einen weiteren\r\nMeilenstein zu erreichen! Als Belohnung erhältst\r\ndu Rüstungserz!"
+    },
+    "7": {
+      "1": "¡Enhorabuena! Se ha alcanzado el siguiente objetivo\r\nde jugadores que debían derrotar a Zeraora en las\r\nIncursiones Dinamax.\r\nPara celebrarlo, ¡te regalamos algo de Duralium!"
+    },
+    "8": {
+      "1": "특별한 맥스 레이드배틀에서\r\n제라오라를 쓰러뜨린 트레이너의 수가\r\n목표를 달성했다!\r\n기념으로 갑옷광석을 선물!"
+    },
+    "9": {
+      "1": "在纪念《宝可梦 剑／盾 扩展票》\r\n第1弹“铠之孤岛”发布的特别极巨团体战中，\r\n战胜捷拉奥拉的训练家数量达到了目标！\r\n作为纪念你将获赠铠甲矿石！"
+    },
+    "10": {
+      "1": "在紀念『寶可夢 劍／盾 擴充票』第1彈\r\n「鎧之孤島」發佈的特別極巨團體戰中，\r\n打倒捷拉奧拉的訓練家人數已達成目標！\r\n送你鎧甲礦石作為紀念！"
+    }
+  },
+  "expAt": 2524575600,
+  "creAt": 1593502181,
+  "updAt": 1593524402,
+  "viAt": 2524575600,
+  "pm": null,
+  "riGrp": 2,
+  "txtTg": "",
+  "titTg": ""
+}

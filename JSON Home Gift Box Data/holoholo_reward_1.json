@@ -1,0 +1,86 @@
+{
+  "gfMId": "holoholo_reward_1",
+  "gtp": 0,
+  "con": null,
+  "iconT": 0,
+  "amo": 1,
+  "oSt": 1,
+  "title": {
+    "1": {
+      "1": "『Pokémon GO』連携記念",
+      "2": "『Pokémon GO』れんけいきねん"
+    },
+    "2": {
+      "1": "Gift for linking Pokémon GO"
+    },
+    "3": {
+      "1": "Compte associé à Pokémon GO !"
+    },
+    "4": {
+      "1": "Hai collegato Pokémon GO!"
+    },
+    "5": {
+      "1": "Mit Pokémon GO verlinkt!"
+    },
+    "7": {
+      "1": "¡Conexión con Pokémon GO!"
+    },
+    "8": {
+      "1": "Pokémon GO 연동 기념"
+    },
+    "9": {
+      "1": "《Pokémon GO》连动纪念"
+    },
+    "10": {
+      "1": "『Pokémon GO』連結紀念"
+    }
+  },
+  "txt": {
+    "1": {
+      "1": "はじめて\u3000『Pokémon GO』から\r\nポケモンを\u3000転送した！\r\n記念に\u3000キョダイマックスできる\r\n特別な\u3000メルメタルを\u3000プレゼント！",
+      "2": "はじめて\u3000『Pokémon GO』から\r\nポケモンを\u3000てんそうした！\r\nきねんに\u3000キョダイマックスできる\r\nとくべつな\u3000メルメタルを\u3000プレゼント！"
+    },
+    "2": {
+      "1": "You transferred a Pokémon from Pokémon GO\r\nfor the first time!\r\nAs a reward, you\u0027ll receive a special Melmetal\r\nthat is capable of Gigantamaxing!"
+    },
+    "3": {
+      "1": "Pour fêter le transfert de votre premier Pokémon depuis\r\nPokémon GO, nous vous offrons un Melmetal très spécial\r\npouvant se gigamaxer !"
+    },
+    "4": {
+      "1": "Per festeggiare il tuo primo trasferimento\r\ndi Pokémon da Pokémon GO, vogliamo regalarti\r\nuno speciale Melmetal Gigamax!"
+    },
+    "5": {
+      "1": "Du hast zum ersten Mal ein Pokémon aus Pokémon GO\r\nübertragen! Als Belohnung bekommst du ein besonderes\r\nMelmetal geschenkt, das sich gigadynamaximieren kann!"
+    },
+    "7": {
+      "1": "Para celebrar que has transferido tu primer Pokémon\r\ndesde Pokémon GO, ¡te regalamos este Melmetal tan\r\nespecial capaz de gigamaxizarse!"
+    },
+    "8": {
+      "1": "처음으로 Pokémon GO에서\r\n포켓몬을 전송했다!\r\n기념으로 거다이맥스할 수 있는\r\n특별한 멜메탈을 선물!"
+    },
+    "9": {
+      "1": "第一次从《Pokémon GO》\r\n传送了宝可梦过来！\r\n作为纪念你将获赠一只\r\n能超极巨化的特别的美录梅塔！"
+    },
+    "10": {
+      "1": "第一次從『Pokémon GO』\r\n傳送寶可夢過來了！\r\n送你一隻可以超極巨化的\r\n特別美錄梅塔作為紀念！"
+    }
+  },
+  "expAt": 2524575600,
+  "creAt": 1605053759,
+  "updAt": 1605054530,
+  "viAt": 2524575600,
+  "pm": {
+    "pkInfo": [
+      {
+        "id": 809,
+        "form": 0,
+        "sex": null,
+        "color": null,
+        "nicNg": "1"
+      }
+    ]
+  },
+  "riGrp": 1,
+  "txtTg": "",
+  "titTg": ""
+}

@@ -1,0 +1,86 @@
+{
+  "gfMId": "galal_reward3_3",
+  "gtp": 0,
+  "con": null,
+  "iconT": 0,
+  "amo": 1,
+  "oSt": 1,
+  "title": {
+    "1": {
+      "1": "『ポケモン SW・SH』連携記念！③",
+      "2": "『ポケモン SW・SH』れんけいきねん！③"
+    },
+    "2": {
+      "1": "Gift for connecting to Galar 3!"
+    },
+    "3": {
+      "1": "Un cadeau venu de Galar ! ③"
+    },
+    "4": {
+      "1": "Benvenuti a Galar: regalo nº 3!"
+    },
+    "5": {
+      "1": "Mit Galar verlinkt! (Geschenk ③)"
+    },
+    "7": {
+      "1": "¡Conexión con Galar n.º 3!"
+    },
+    "8": {
+      "1": "포켓몬스터소드･실드 연동 기념! ③"
+    },
+    "9": {
+      "1": "《宝可梦 剑／盾》连动纪念！③"
+    },
+    "10": {
+      "1": "『寶可夢 劍／盾』連結紀念！③"
+    }
+  },
+  "txt": {
+    "1": {
+      "1": "『ポケットモンスター ソード・シールド』と \r\n『Pokémon HOME』を\u3000連携させた！ \r\n記念に\u3000メッソンを\u3000プレゼント！",
+      "2": "『ポケットモンスター ソード・シールド』と \r\n『Pokémon HOME』を\u3000れんけいさせた！ \r\nきねんに\u3000メッソンを\u3000プレゼント！"
+    },
+    "2": {
+      "1": "You\u0027ve connected Pokémon Sword or Pokémon Shield \r\nto Pokémon HOME! \r\nHere\u0027s a Sobble as a special gift!"
+    },
+    "3": {
+      "1": "Pour fêter la synchronisation de Pokémon Épée ou\r\nBouclier avec Pokémon HOME, nous vous offrons\r\nLarméléon !"
+    },
+    "4": {
+      "1": "Hai collegato Pokémon Spada o Pokémon \r\nScudo a Pokémon HOME! Per festeggiare, \r\nvogliamo regalarti un Sobble!"
+    },
+    "5": {
+      "1": "Du hast Pokémon HOME mit Pokémon Schwert oder \r\nPokémon Schild verlinkt. Als Belohnung bekommst du \r\nein Memmeon geschenkt!"
+    },
+    "7": {
+      "1": "Para celebrar que has conectado Pokémon Espada \r\no Pokémon Escudo con Pokémon HOME, \r\n¡te regalamos este Sobble!"
+    },
+    "8": {
+      "1": "포켓몬스터소드･실드와\r\nPokémon HOME을 연동했다!\r\n기념으로 울머기를 선물!"
+    },
+    "9": {
+      "1": "已将《Pokémon HOME》与 \r\n《宝可梦 剑／盾》连动！ \r\n作为纪念你将获赠一只泪眼蜥！"
+    },
+    "10": {
+      "1": "已將『寶可夢 劍／盾』 \r\n與『Pokémon HOME』連結！ \r\n送你一隻淚眼蜥作為紀念！"
+    }
+  },
+  "expAt": 2524575600,
+  "creAt": 1591105512,
+  "updAt": 1591105612,
+  "viAt": 2524575600,
+  "pm": {
+    "pkInfo": [
+      {
+        "id": 816,
+        "form": 0,
+        "sex": null,
+        "color": null,
+        "nicNg": null
+      }
+    ]
+  },
+  "riGrp": 1,
+  "txtTg": "",
+  "titTg": ""
+}

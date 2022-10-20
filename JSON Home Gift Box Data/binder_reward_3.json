@@ -1,0 +1,86 @@
+{
+  "gfMId": "binder_reward_3",
+  "gtp": 0,
+  "con": null,
+  "iconT": 0,
+  "amo": 1,
+  "oSt": 1,
+  "title": {
+    "1": {
+      "1": "バインダー作成記念！",
+      "2": "バインダーさくせいきねん！"
+    },
+    "2": {
+      "1": "Gift for creating a Binder!"
+    },
+    "3": {
+      "1": "Page perso décorée !"
+    },
+    "4": {
+      "1": "Hai personalizzato la copertina!"
+    },
+    "5": {
+      "1": "Erster Sticker im Stickeralbum!"
+    },
+    "7": {
+      "1": "¡Portada personalizada!"
+    },
+    "8": {
+      "1": "바인더 작성 기념!"
+    },
+    "9": {
+      "1": "贴纸簿制作纪念！"
+    },
+    "10": {
+      "1": "貼紙簿製作紀念！"
+    }
+  },
+  "txt": {
+    "1": {
+      "1": "はじめて\u3000バインダーに\u3000シールを\n貼りつけた！\n記念に\u3000ピチューを\u3000プレゼント！",
+      "2": "はじめて\u3000バインダーに\u3000シールを\nはりつけた！\nきねんに\u3000ピチューを\u3000プレゼント！\n"
+    },
+    "2": {
+      "1": "To celebrate you putting a sticker\nin your Binder for the first time,\nyou\u0027ll be gifted a Pichu!"
+    },
+    "3": {
+      "1": "Pour célébrer l\u0027utilisation de votre premier autocollant\nsur votre page perso, nous vous offrons un Pichu !"
+    },
+    "4": {
+      "1": "Hai attaccato il primo adesivo sulla copertina!\nPer festeggiare, vogliamo regalarti un Pichu!"
+    },
+    "5": {
+      "1": "Du hast den ersten Sticker in dein Stickeralbum geklebt.\nAls Belohnung bekommst du ein Pichu geschenkt!"
+    },
+    "7": {
+      "1": "Para celebrar que has puesto la primera\npegatina en tu portada, ¡te regalamos este\nPichu!"
+    },
+    "8": {
+      "1": "처음으로 바인더에 씰을 붙였다!\n기념으로 피츄를 선물!"
+    },
+    "9": {
+      "1": "第一次在贴纸簿上\n粘贴了贴纸！\n作为纪念你将获赠一只皮丘！"
+    },
+    "10": {
+      "1": "第一次在貼紙簿上貼了貼紙！\n送你一隻皮丘作為紀念！"
+    }
+  },
+  "expAt": 1584103487,
+  "creAt": 1581511487,
+  "updAt": 1581511535,
+  "viAt": 1676119487,
+  "pm": {
+    "pkInfo": [
+      {
+        "id": 172,
+        "form": 0,
+        "sex": null,
+        "color": null,
+        "nicNg": null
+      }
+    ]
+  },
+  "riGrp": 1,
+  "txtTg": "",
+  "titTg": ""
+}
